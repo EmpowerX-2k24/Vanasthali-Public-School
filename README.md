@@ -11,4 +11,4 @@
    git commit -m "Added website files"
    git push origin main
    ```
-4. Ensure all files are uploaded before the deadline: October 22, 2024 11:59 pm!
+4. Ensure all files are uploaded before the deadline: October 24, 2024 11:59 pm!
